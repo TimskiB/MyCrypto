@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613935479507",
+    "project_id": "crypto-7da61",
+    "storage_bucket": "crypto-7da61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613935479507:android:0d3b49fa45ad1f3b0e7226",
+        "android_client_info": {
+          "package_name": "com.flutterflow.bitcoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613935479507-tfjoh2pd1uqclc82vna530rupar267al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgGdqc5wjRdMt58bhWZtJxZ3_tLBwu6TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613935479507-tfjoh2pd1uqclc82vna530rupar267al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
